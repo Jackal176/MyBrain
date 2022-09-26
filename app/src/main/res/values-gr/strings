@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">My Brain</string>
 
-    <string name="reminders_channel_description">Notification channel for sending tasks reminders notification</string>
+    <string name="reminders_channel_description">Κανάλι ειδοποιήσεων για αποστολή υπενθυμίσεων για εκκρεμότητες</string>
     <string name="reminders_channel_name">Υπενθυμίσεις</string>
     <string name="complete">Ολοκλήρωση</string>
     <string name="dashboard">Πίνακας</string>
@@ -37,7 +37,7 @@
     <string name="error_empty_title">Ο τίτλος δεν μπορεί να είναι κενός</string>
     <string name="priority">Προτεραιότητα</string>
     <string name="order_by">Ταξινόμηση κατά</string>
-    <string name="alphabetical">Αλφαβητικά</string>
+    <string name="alphabetical">Αλφαβητική σειρά</string>
     <string name="date_created">Ημερομηνία δημιουργίας</string>
     <string name="date_modified">Ημερομηνία τροποποίησης</string>
     <string name="ascending">Αύξουσα</string>
@@ -61,9 +61,9 @@
     <string name="no_notes_message">Δεν έχετε σημειώσεις\n Πατήστε το κουμπί + για να προσθέσετε νέα σημείωση</string>
     <string name="no_entries_message">Δεν έχετε καταχωρίσεις\n Πατήστε το κουμπί + για να προσθέσετε νέα καταχώριση</string>
     <string name="no_bookmarks_message">Δεν έχετε σελιδοδείκτες\n Πατήστε το κουμπί + για να προσθέσετε νέο σελιδοδείκτη\n ή \nχρησιμοποιώντας την επιλογή κοινοποίησης από οποιονδήποτε φυλλομετρητή (browser)</string>
-    <string name="project_roadmap">Project roadmap</string>
-    <string name="list">List</string>
-    <string name="grid">Grid</string>
+    <string name="project_roadmap">Μελλοντικοί στόχοι</string>
+    <string name="list">Λίστα</string>
+    <string name="grid">Πλέγμα</string>
     <string name="note_content">Note content (supports markdown)</string>
     <string name="delete_note">Delete Note</string>
     <string name="error_empty_note">Note cannot be empty</string>
